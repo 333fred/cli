@@ -36,7 +36,8 @@
       "imports": [
         "portable-net45+wp80+win8+wpa81+dnxcore50"
       ]
-    }
+    },
+    "netstandard1.3": {}
   },
   "scripts": {}
 }

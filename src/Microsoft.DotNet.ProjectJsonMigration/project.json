@@ -13,10 +13,12 @@
     "Microsoft.DotNet.ProjectModel": {
       "target": "project"
     },
-    "Microsoft.Build": "0.1.0-preview-00034-160909"
+    "Microsoft.Build": "15.1.0-preview-00034-160909"
   },
   "frameworks": {
     "netcoreapp1.0": {
+    },
+    "netstandard1.3" : {
     }
   }
 }
